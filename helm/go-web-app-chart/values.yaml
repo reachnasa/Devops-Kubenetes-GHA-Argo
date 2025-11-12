@@ -8,7 +8,7 @@ image:
   repository: reachsanaullah/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "19284320315"
+  tag: "19284455899"
 
 ingress:
   enabled: false
